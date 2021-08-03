@@ -1,0 +1,9 @@
+{
+    "AWS": {
+      "accessKeyId":"AKIA5NQQPMFCOWLZKEG3",
+      "secretAccessKey":"BA+GuYz3DHSvdjuYB42UizboKb8JXXD1pyLXn/WLvbVg",
+      "region":"us-east-2",
+      "SenderEmailId":"<francisco.fasters@singulare.com.br>"
+    },
+    "port": 465
+  }
